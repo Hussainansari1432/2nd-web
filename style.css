@@ -1,0 +1,81 @@
+ td{
+    width: 50px; ;
+height: 50px;
+text-align: center;
+ }
+ .ue{
+line-height: 0 ;
+ font-size: 7px; 
+font-weight: bold;
+ }
+
+ .ne {
+    line-height: 0 ;
+    font-size:23px;
+    font-weight: bold;
+     }
+.col1{
+
+    background-color: rgb(86, 173, 76);
+
+}
+.col2{
+
+    background-color: rgb(57, 126, 49);
+
+}
+.col3{
+
+    background-color: rgb( 209, 165, 77);
+
+}
+.col4{
+
+    background-color: rgb(255, 102, 0);
+
+}
+.col5{
+
+    background-color: rgb(214, 5, 5);
+
+}
+.col6{
+
+    background-color: rgb( 17, 87, 82);
+
+}
+.col7{
+
+    background-color: rgb( 160, 173, 172);
+
+} 
+.col10{
+
+    background-color: rgb( 235, 103, 138);
+
+}
+.col11{
+
+    background-color: rgb(131, 48, 156);
+
+}
+.col8{
+
+    background-color: rgb( 48, 122, 201);
+
+}
+body{
+    background-color: black;
+    color: aliceblue;
+}
+ 
+ h1{
+    
+    background-color: rgb(62, 23, 73);
+    width: 450px; 
+    line-height: 80px ;
+    border-radius:3px; 
+    box-shadow: 0px 5px 15px rgb(125, 199, 65);
+    font-size: 40px;
+   
+ }
